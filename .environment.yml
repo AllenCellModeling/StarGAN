@@ -1,0 +1,14 @@
+name: stargan
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - numpy
+  - pre_commit
+  - python=3.6
+  - pytorch
+  - tensorboard
+  - tensorboardx
+  - tensorflow
+  - torchvision
+
